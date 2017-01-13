@@ -1,0 +1,38 @@
+# Unity generated
+Temp/
+Obj/
+Library/
+Build/
+Xcode/
+sysinfo.txt
+*.stackdump
+*.pidb.meta
+*.mdb
+*.mdb.meta
+
+# Builds
+*.apk
+*.unitypackage
+ 
+# Visual Studio / MonoDevelop generated
+[Ee]xported[Oo]bj/
+.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+ 
+# OS generated
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Assets/Sound/AudacityProject
